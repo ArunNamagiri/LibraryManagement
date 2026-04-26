@@ -19,7 +19,6 @@ LibraryManagement/
 │       └── util/
 │           ├── DataStore.java           # File-based persistence
 │           └── ConsoleHelper.java       # Colored console output
-├── compile_and_run.sh                   # Build & run script (Linux/Mac)
 └── README.md
 ```
 
